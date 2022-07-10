@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @gauravkaushik16.
-- 
 - 🌱 I’m currently learning  full stack development
 - 
 
